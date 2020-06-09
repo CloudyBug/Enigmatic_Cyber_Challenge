@@ -1,11 +1,18 @@
 # Overview of Encryption
 Takes text character at a time, converts to its ASCII number.
+
 Number is then scrambled by adding numbers from several arrays of random numbers.
+
 Arrays taken from Rotors file. 
+
 Arrays are incremented so number added is unpredictable (first one +1, each increments the next after a full cycle). 
+
 New scrambled numbers saved to file. 
 
+
+
 Reverse by taking away the numbers from the Arrrays.
+
 
 Arrays starting positions determined by user input, without the correct start positions you cannot Decrypt the Message. 
 
