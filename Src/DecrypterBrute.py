@@ -73,7 +73,8 @@ for Setting in range(Length ** Num): # for all possible settings
                         
         print(Message) # outputs message
         print(Setting) # outputs settings
-                        
+        Encrypted.close() # closes file
+        break      
     Encrypted.close() # closes file
 
 print("Done!")
