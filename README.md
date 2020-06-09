@@ -20,4 +20,4 @@ As all code is downloaded and then run client side and the only thing that the u
 
 ## Walkthrough
 The user should take the python decrypter and modify it to brute force through settings, using the crib provided to find the correct setting.
-See example program for a demonstration of how this could be done. 
+See DecrypterBrute.py for a demonstration of how this could be done. 
