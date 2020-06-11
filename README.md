@@ -9,7 +9,7 @@ Flag: L2Ioh1aG86T30iS
 ## Briefing
 We have seized a USB drive containing a suspicious encrypted message. The decrypter has been included with the message, however, it needs the correct settings before it will work and there are just too many possibilites! We know the Message starts with "Weather" but we really need the rest! Can you decrypt the message?
 
-By [username].
+By wye.
 
 ## Infrastructure
 This challenge is all run client side once the files are downloaded.
